@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ronalds 👋
 
-<!--
-**ternersronalds/ternersronalds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building fast, reliable, and maintainable frontend code. I value clean code, minimalism, and getting things done.
 
-Here are some ideas to get you started:
+### 🛠 Tech I Use
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: React, Node.js, Express, Svelte
+- **Tools**: Git, Docker, VS Code, Linux, Notion, Microsoft Teams
+- **Databases**: PostgreSQL, MongoDB, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- Building [https://github.com/Frydelv/Chirp-Frontend](https://github.com/Frydelv/Chirp-Frontend)
+- Improving systems for performance and scale
+- Writing better, cleaner code
+
+
+
